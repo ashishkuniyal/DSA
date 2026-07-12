@@ -21,18 +21,21 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aashish2024-oss/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
+| [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aashish2024-oss/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
