@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
@@ -22,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
@@ -32,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
@@ -40,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
