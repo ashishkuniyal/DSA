@@ -29,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
@@ -66,6 +68,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/aashish2024-oss/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aashish2024-oss/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
