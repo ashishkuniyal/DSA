@@ -18,6 +18,7 @@
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aashish2024-oss/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -107,6 +108,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -146,4 +148,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
