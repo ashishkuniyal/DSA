@@ -35,6 +35,7 @@
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aashish2024-oss/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aashish2024-oss/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -105,6 +107,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/aashish2024-oss/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
