@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aashish2024-oss/DSA/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aashish2024-oss/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -39,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/aashish2024-oss/DSA/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
