@@ -6,6 +6,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/aashish2024-oss/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/aashish2024-oss/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aashish2024-oss/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -56,6 +57,7 @@
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/aashish2024-oss/DSA/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/aashish2024-oss/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -146,6 +148,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aashish2024-oss/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -225,4 +228,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashish2024-oss/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
