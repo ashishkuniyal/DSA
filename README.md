@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aashish2024-oss/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/aashish2024-oss/DSA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/aashish2024-oss/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -105,6 +106,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aashish2024-oss/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aashish2024-oss/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aashish2024-oss/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
