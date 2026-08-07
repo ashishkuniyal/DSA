@@ -246,4 +246,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aashish2024-oss/DSA/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aashish2024-oss/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
