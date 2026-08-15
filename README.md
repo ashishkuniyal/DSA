@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aashish2024-oss/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ashishkuniyal/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/aashish2024-oss/DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
@@ -84,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashishkuniyal/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aashish2024-oss/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ashishkuniyal/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/aashish2024-oss/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashish2024-oss/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashishkuniyal/DSA/tree/master/0160-intersection-of-two-linked-lists) |
