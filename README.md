@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/aashish2024-oss/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aashish2024-oss/DSA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/aashish2024-oss/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/ashishkuniyal/DSA/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/ashishkuniyal/DSA/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -63,6 +64,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ashishkuniyal/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ashishkuniyal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/aashish2024-oss/DSA/tree/master/0283-move-zeroes) |
@@ -173,6 +175,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ashishkuniyal/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashishkuniyal/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ashishkuniyal/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ashishkuniyal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aashish2024-oss/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aashish2024-oss/DSA/tree/master/0344-reverse-string) |
