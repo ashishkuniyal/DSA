@@ -74,6 +74,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ashishkuniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkuniyal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aashish2024-oss/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/ashishkuniyal/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ashishkuniyal/DSA/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -320,6 +321,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishkuniyal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ashishkuniyal/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ashishkuniyal/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
