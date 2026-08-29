@@ -10,6 +10,6 @@ class Solution:
                 min_length=min(min_length,r-l+1)
                 summ-=nums[l]
                 l+=1
-        return min_length if min_length< float('inf') else 0
+        return min_length if min_length < float('inf') else 0
 
         
