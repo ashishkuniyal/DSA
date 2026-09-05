@@ -69,6 +69,7 @@
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aashish2024-oss/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ashishkuniyal/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
@@ -113,6 +114,7 @@
 | [0018-4sum](https://github.com/ashishkuniyal/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ashishkuniyal/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
@@ -206,6 +208,7 @@
 | [0027-remove-element](https://github.com/aashish2024-oss/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashish2024-oss/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ashishkuniyal/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ashishkuniyal/DSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishkuniyal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ashishkuniyal/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashishkuniyal/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -350,4 +353,12 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ashishkuniyal/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashishkuniyal/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ashishkuniyal/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
