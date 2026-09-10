@@ -212,6 +212,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashish2024-oss/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ashishkuniyal/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ashishkuniyal/DSA/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishkuniyal/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishkuniyal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ashishkuniyal/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ashishkuniyal/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -331,6 +332,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ashishkuniyal/DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashishkuniyal/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aashish2024-oss/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishkuniyal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ashishkuniyal/DSA/tree/master/0148-sort-list) |
