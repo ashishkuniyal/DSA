@@ -9,6 +9,7 @@
 | [0168-excel-sheet-column-title](https://github.com/aashish2024-oss/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ashishkuniyal/DSA/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/ashishkuniyal/DSA/tree/master/0441-arranging-coins) |
+| [0836-rectangle-overlap](https://github.com/ashishkuniyal/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/aashish2024-oss/DSA/tree/master/2235-add-two-integers) |
@@ -383,4 +384,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ashishkuniyal/DSA/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ashishkuniyal/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
