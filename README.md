@@ -8,6 +8,7 @@
 | [0069-sqrtx](https://github.com/aashish2024-oss/DSA/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/aashish2024-oss/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ashishkuniyal/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ashishkuniyal/DSA/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/ashishkuniyal/DSA/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/ashishkuniyal/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/ashishkuniyal/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/aashish2024-oss/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashishkuniyal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aashish2024-oss/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -287,6 +289,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashishkuniyal/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aashish2024-oss/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
