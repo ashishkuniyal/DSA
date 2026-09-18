@@ -315,6 +315,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ashishkuniyal/DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/ashishkuniyal/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ashishkuniyal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ashishkuniyal/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ashishkuniyal/DSA/tree/master/0739-daily-temperatures) |
@@ -407,4 +408,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ashishkuniyal/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
