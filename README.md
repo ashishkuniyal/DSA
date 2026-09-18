@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishkuniyal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aashish2024-oss/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aashish2024-oss/DSA/tree/master/0058-length-of-last-word) |
@@ -311,6 +312,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ashishkuniyal/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ashishkuniyal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ashishkuniyal/DSA/tree/master/0682-baseball-game) |
@@ -398,4 +400,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ashishkuniyal/DSA/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
