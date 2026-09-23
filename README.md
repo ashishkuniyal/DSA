@@ -105,6 +105,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ashishkuniyal/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ashishkuniyal/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/ashishkuniyal/DSA/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ashishkuniyal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashishkuniyal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/aashish2024-oss/DSA/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/ashishkuniyal/DSA/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
