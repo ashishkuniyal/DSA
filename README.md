@@ -329,6 +329,7 @@
 | [0020-valid-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ashishkuniyal/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ashishkuniyal/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ashishkuniyal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishkuniyal/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ashishkuniyal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ashishkuniyal/DSA/tree/master/0682-baseball-game) |
@@ -429,10 +430,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ashishkuniyal/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ashishkuniyal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishkuniyal/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1172-dinner-plate-stacks](https://github.com/ashishkuniyal/DSA/tree/master/1172-dinner-plate-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashishkuniyal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishkuniyal/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
