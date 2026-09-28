@@ -50,6 +50,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ashishkuniyal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ashishkuniyal/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/ashishkuniyal/DSA/tree/master/0804-unique-morse-code-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/ashishkuniyal/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
@@ -101,6 +102,7 @@
 | [0645-set-mismatch](https://github.com/ashishkuniyal/DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ashishkuniyal/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ashishkuniyal/DSA/tree/master/0739-daily-temperatures) |
+| [0804-unique-morse-code-words](https://github.com/ashishkuniyal/DSA/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishkuniyal/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -178,6 +180,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ashishkuniyal/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ashishkuniyal/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/ashishkuniyal/DSA/tree/master/0804-unique-morse-code-words) |
 | [1172-dinner-plate-stacks](https://github.com/ashishkuniyal/DSA/tree/master/1172-dinner-plate-stacks) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
