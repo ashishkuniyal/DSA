@@ -98,6 +98,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishkuniyal/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aashish2024-oss/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ashishkuniyal/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0622-design-circular-queue](https://github.com/ashishkuniyal/DSA/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/ashishkuniyal/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ashishkuniyal/DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ashishkuniyal/DSA/tree/master/0682-baseball-game) |
@@ -390,6 +391,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ashishkuniyal/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aashish2024-oss/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashishkuniyal/DSA/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/ashishkuniyal/DSA/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ashishkuniyal/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -442,10 +444,12 @@
 | [0155-min-stack](https://github.com/ashishkuniyal/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashishkuniyal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishkuniyal/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/ashishkuniyal/DSA/tree/master/0622-design-circular-queue) |
 | [1172-dinner-plate-stacks](https://github.com/ashishkuniyal/DSA/tree/master/1172-dinner-plate-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashishkuniyal/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishkuniyal/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/ashishkuniyal/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
