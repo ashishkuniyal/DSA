@@ -57,6 +57,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/ashishkuniyal/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/ashishkuniyal/DSA/tree/master/1859-sorting-the-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashishkuniyal/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aashish2024-oss/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aashish2024-oss/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashishkuniyal/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -117,6 +118,7 @@
 | [1672-richest-customer-wealth](https://github.com/ashishkuniyal/DSA/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ashishkuniyal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashishkuniyal/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashishkuniyal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aashish2024-oss/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
