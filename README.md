@@ -54,6 +54,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/ashishkuniyal/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
+| [1528-shuffle-string](https://github.com/ashishkuniyal/DSA/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/ashishkuniyal/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/ashishkuniyal/DSA/tree/master/1859-sorting-the-sentence) |
@@ -115,6 +116,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ashishkuniyal/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ashishkuniyal/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/ashishkuniyal/DSA/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/ashishkuniyal/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/ashishkuniyal/DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
