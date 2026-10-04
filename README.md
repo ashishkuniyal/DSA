@@ -13,6 +13,7 @@
 | [0441-arranging-coins](https://github.com/ashishkuniyal/DSA/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/ashishkuniyal/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ashishkuniyal/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/aashish2024-oss/DSA/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aashish2024-oss/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -111,6 +112,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishkuniyal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/aashish2024-oss/DSA/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ashishkuniyal/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashishkuniyal/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
