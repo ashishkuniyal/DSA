@@ -53,6 +53,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ashishkuniyal/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/ashishkuniyal/DSA/tree/master/0804-unique-morse-code-words) |
+| [0856-score-of-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/ashishkuniyal/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/ashishkuniyal/DSA/tree/master/1436-destination-city) |
@@ -353,6 +354,7 @@
 | [0234-palindrome-linked-list](https://github.com/ashishkuniyal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/ashishkuniyal/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ashishkuniyal/DSA/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1172-dinner-plate-stacks](https://github.com/ashishkuniyal/DSA/tree/master/1172-dinner-plate-stacks) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -447,6 +449,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishkuniyal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
