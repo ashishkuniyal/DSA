@@ -14,6 +14,7 @@
 | [0836-rectangle-overlap](https://github.com/ashishkuniyal/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aashish2024-oss/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashishkuniyal/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashishkuniyal/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/aashish2024-oss/DSA/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aashish2024-oss/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -302,6 +303,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/ashishkuniyal/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ashishkuniyal/DSA/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashishkuniyal/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aashish2024-oss/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aashish2024-oss/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
